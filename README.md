@@ -1,6 +1,5 @@
-# Hey there 👋 I'm Lanho
 
-I'm a developer who loves building APIs and web apps.
+<img src="[./avatar.png](https://files.catbox.moe/n7id5m.jfif)" width="150" />
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,linux&perline=4)](https://skillicons.dev)
