@@ -8,7 +8,7 @@ I'm a developer who loves building APIs and web apps.
 ## Github Status
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=miss-lanho&show_icons=true&theme=dracula" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miss-lanho&layout=compact&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miss-lanho&layout=compact&theme=synthwave" />
 </p>
 
 ## Contact
