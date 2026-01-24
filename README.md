@@ -3,7 +3,7 @@
 I'm a developer who loves building APIs and web apps.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=php,python,js,html,css,mysql,git,linux&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,linux&perline=4)](https://skillicons.dev)
 
 ## Github Status
 <p align="center">
