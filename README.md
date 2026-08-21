@@ -10,16 +10,14 @@
   </table>
 </div>
 
-
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,linux&perline=4" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=miss-lanho&show_icons=true&theme=dracula" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miss-lanho&layout=compact&theme=cobalt" />
-</p>
+</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miss-lanho/miss-lanho/output/github-contribution-grid-snake-dark.svg">
